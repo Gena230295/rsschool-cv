@@ -1,0 +1,65 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+.Rounded {
+  width: 20%;
+  border-radius: 50%;
+}
+a {
+  text-decoration: none;
+  font-size: large;
+  color: black;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+nav {
+  background-color: lightgreen;
+  margin: 10px;
+  padding: 10px 550px;
+  word-spacing: 50px;
+}
+.container {
+  width: 800px;
+}
+
+.centre1 {
+  text-align: center;
+}
+.centre2 {
+  text-align: center;
+  color: darkred;
+  background-color: lightpink;
+}
+.section1 {
+  background-color: lightcyan;
+}
+.section2 {
+  background-color: lightgreen;
+}
+.section3 {
+  background-color: lightcyan;
+}
+.section4 {
+  background-color: lightgreen;
+}
+.section5 {
+  background-color: lightcyan;
+}
+.section6 {
+  background-color: lightgreen;
+}
+.section7 {
+  background-color: lightcyan;
+}
+
+li {
+  list-style-type: none;
+}
+h1 {
+  color: black;
+}
+footer {
+  background-color: aquamarine;
+  padding: 20px;
+}
