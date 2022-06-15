@@ -1,5 +1,7 @@
-#Gena230295
-
-##English A2
-
-###Нет опыта в IT
+Profile
+Contacts
+Summary
+skills
+English
+Projects
+Code
