@@ -1,8 +1,1 @@
-Profile
-Contacts
-Summary
-skills
-English
-Projects
-Code
-about me
+https://gena230295.github.io/Myproject/
