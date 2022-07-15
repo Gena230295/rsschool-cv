@@ -1,1 +1,1 @@
-# https://gena230295.github.io/Myproject/
+https://gena230295.github.io/rsschool-cv/
